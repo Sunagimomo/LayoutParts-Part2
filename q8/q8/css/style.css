@@ -21,6 +21,16 @@
   background-position: center;
 }
 
+.q2--alt{
+  height: 500px;
+  background: url(../../image/coffee-background.jpg) no-repeat;
+}
+
+.q3--alt{
+  height: 500px;
+  background: url(../../image/coffee-background.jpg) no-repeat center/cover;
+}
+
 .q4--alt{
   height: 500px;
   background: url(../../image/coffee-background.jpg) no-repeat center/contain;
